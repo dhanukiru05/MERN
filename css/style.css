@@ -1,0 +1,29 @@
+/* external css */
+
+p {
+    font-size: 20px;
+}
+.heading-2 {
+    color: blueviolet;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#para {
+    color: red;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: bolder;   /* range 100-900 */
+    font-style: oblique;     
+}
+.para-class{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;   /* range 100-900 */
+    font-style: oblique; 
+
+    text-align: center;
+    text-decoration: underline dotted;
+    text-transform: lowercase  ;
+    line-height: 20px;
+}
+
