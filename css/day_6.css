@@ -1,0 +1,36 @@
+p {
+    /* color: blue; */
+
+    color:#68adad;
+}
+
+.container{
+    background-color: #6d6e9c;
+    height: 600px;
+    background-image: url("./../assets/car.jpg");
+    background-size:contain;
+    background-repeat:inherit;
+    background-position: 20px 10px;       /*20px-left&right, 10px-top&bottom*/
+    border: 2px solid black;
+    opacity: 0.5;
+}
+/* background properties */
+.container2{
+    width: 200px;
+    height: 200px;
+    background-color: #000;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+
+    /* box model */
+
+    /* border-width: 20px;
+    border-style: solid;
+    border-color: brown; */
+    /* border-radius: 20px; */
+    border: 3px dashed #6d6e9c;
+    border-top-right-radius: 30px;
+    margin: 10px;
+}
